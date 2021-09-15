@@ -5,7 +5,7 @@
 <br>
 
 <div align='center'>
-  <a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kawixh&column=3&margin-w=15&margin-h=15&bg=false&frame=false&theme=algolia">
   </a>
 </div>
