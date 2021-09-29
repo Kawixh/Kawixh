@@ -1,5 +1,10 @@
 ### Hi there, I am Kawish Hussain. 👋
 
+- 🔭 I’m currently working on Ruby on Rails
+- 🌱 I’m currently learning Ruby on Rails and Flutter
+- 👯 I’m looking to collaborate on FLutter and Ruby on Rails
+- 💬 Ask me about anything you want 😀
+
 <br>
 <br>
 <br>
