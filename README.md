@@ -9,7 +9,7 @@
 <br>
 <br>
 
-[![forthebadge ruby-on-rails](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg)](https://rubyonrails.org/)
+[![forthebadge ruby-on-rails](https://forthebadge.com/generator/?plabel=Ruby+on+Rails&slabel=Developer)](https://rubyonrails.org/)
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
