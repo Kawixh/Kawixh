@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Kawixh) https://img.shields.io/badge/Rails-%F0%9F%8C%80-white
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Kawixh) <img scr="https://img.shields.io/badge/Rails-%F0%9F%8C%80-white" />
 
 ### Hi there, I am Kawish Hussain. 👋
 
