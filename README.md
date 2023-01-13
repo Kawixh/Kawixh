@@ -12,7 +12,8 @@
 <br>
 
 <hr>
-### Vibing to 🎧:
+
+## Vibing to 🎧:
 
 <p style="padding: 10px; margin-top: 20px;">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&redirect=true">
