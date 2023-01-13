@@ -13,7 +13,11 @@
 
 <hr>
 <h2>Vibing to</h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&cover_image=true&theme=default&show_offline=true&background_color=2f2d2d&bar_color_cover=true&bar_color=c9dec9)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true">
+  </a>
+</p>
 
 <hr>
 
