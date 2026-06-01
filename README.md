@@ -3,8 +3,8 @@
 <br>
 
 <p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://kawish-spotify.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  <a href="https://kawish-spotify.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&redirect=true">
+    <img src="https://kawish-spotify.vercel.app/api/view?uid=f7n4lhq3fwvldblj3c1x9j6sw&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
   </a>
 </p>
 
